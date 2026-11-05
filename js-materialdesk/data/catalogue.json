@@ -1,0 +1,50 @@
+[
+  {
+    "id": "E1",
+    "nom": "Vidéoprojecteur",
+    "categorie": "video",
+    "prixJourCentimes": 100,
+    "stock": 3,
+    "tags": ["portable", "hd"],
+    "details": {
+      "salle": "A1",
+      "etat": "bon"
+    }
+  },
+  {
+    "id": "E2",
+    "nom": "Enceinte",
+    "categorie": "audio",
+    "prixJourCentimes": 50,
+    "stock": 0,
+    "tags": [],
+    "details": {
+      "salle": "A2",
+      "etat": "bon"
+    }
+  },
+  {
+    "id": "E3",
+    "nom": "Caméra",
+    "categorie": "video",
+    "prixJourCentimes": 200,
+    "stock": 2,
+    "tags": [],
+    "details": {
+      "salle": "B1",
+      "etat": "bon"
+    }
+  },
+  {
+    "id": "E4",
+    "nom": "Microphone",
+    "categorie": "audio",
+    "prixJourCentimes": 25,
+    "stock": 4,
+    "tags": [],
+    "details": {
+      "salle": "B2",
+      "etat": "bon"
+    }
+  }
+]

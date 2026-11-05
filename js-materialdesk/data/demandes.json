@@ -1,0 +1,17 @@
+[
+  {
+    "id": "D1",
+    "equipementId": "E1",
+    "quantite": 2
+  },
+  {
+    "id": "D2",
+    "equipementId": "E3",
+    "quantite": 1
+  },
+  {
+    "id": "D3",
+    "equipementId": "E4",
+    "quantite": 3
+  }
+]

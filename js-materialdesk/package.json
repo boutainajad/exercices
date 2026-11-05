@@ -1,0 +1,13 @@
+{
+  "name": "js-materialdesk",
+  "version": "1.0.0",
+  "description": "Gestionnaire de matériel en JavaScript",
+  "type": "module",
+  "scripts": {
+    "start": "node demo.mjs",
+    "test": "node verifications.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
